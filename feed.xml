@@ -6,7 +6,70 @@
     <description>New Maven Analytics Data Drills</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 14:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:55:41 +0000</lastBuildDate>
+    <item>
+      <title>Flatten the Stack</title>
+      <link>https://mavenanalytics.io/data-drills/flatten-the-stack</link>
+      <description>Flatten a nested JSON column into individual rows in this intermediate data drill. Transform order records with embedded line items into a flat table format, then calculate total online sales. Ideal for practicing data transformation and aggregation skills. </description>
+      <guid isPermaLink="false">https://mavenanalytics.io/data-drills/flatten-the-stack</guid>
+      <pubDate>Tue, 23 Jun 2026 17:48:48 +0300</pubDate>
+    </item>
+    <item>
+      <title>Movie Metrics</title>
+      <link>https://mavenanalytics.io/data-drills/movie-metrics</link>
+      <description>Summarize the viewing activity for each Netflix user. Ideal for practicing logic-based feature engineering and aggregation.</description>
+      <guid isPermaLink="false">https://mavenanalytics.io/data-drills/movie-metrics</guid>
+      <pubDate>Tue, 23 Jun 2026 17:48:48 +0300</pubDate>
+    </item>
+    <item>
+      <title>Splitting the Field</title>
+      <link>https://mavenanalytics.io/data-drills/splitting-the-field</link>
+      <description>Count the number of players who suited up at each position during the 2025 MLB season. Ideal for practicing aggregation based on multi-value fields.</description>
+      <guid isPermaLink="false">https://mavenanalytics.io/data-drills/splitting-the-field</guid>
+      <pubDate>Tue, 23 Jun 2026 17:48:48 +0300</pubDate>
+    </item>
+    <item>
+      <title>Booking Breakdown</title>
+      <link>https://mavenanalytics.io/data-drills/booking-breakdown</link>
+      <description>Calculate the occupancy rate for a hotel based on a list of reservations with check-in and check-out dates. Ideal for practicing date range expansion and filtering.</description>
+      <guid isPermaLink="false">https://mavenanalytics.io/data-drills/booking-breakdown</guid>
+      <pubDate>Tue, 23 Jun 2026 17:48:48 +0300</pubDate>
+    </item>
+    <item>
+      <title>Rolling Up, Looking Back</title>
+      <link>https://mavenanalytics.io/data-drills/rolling-up-looking-back</link>
+      <description>Analyze monthly sales and track performance trends in this hands-on data drill. Group transactions by store and month, then calculate month-over-month changes to uncover key insights.</description>
+      <guid isPermaLink="false">https://mavenanalytics.io/data-drills/rolling-up-looking-back</guid>
+      <pubDate>Tue, 23 Jun 2026 17:48:48 +0300</pubDate>
+    </item>
+    <item>
+      <title>Streak Leaderboard</title>
+      <link>https://mavenanalytics.io/data-drills/streak-leaderboard</link>
+      <description>Identify the users with the longest daily active streaks based on their lessons completed. Ideal for practicing date comparisons, lag functions, and streak logic.</description>
+      <guid isPermaLink="false">https://mavenanalytics.io/data-drills/streak-leaderboard</guid>
+      <pubDate>Tue, 23 Jun 2026 17:48:48 +0300</pubDate>
+    </item>
+    <item>
+      <title>The Price is Right</title>
+      <link>https://mavenanalytics.io/data-drills/the-price-is-right</link>
+      <description>Look up the price for each product based on the transaction date and historical price changes. Ideal for practicing slowly changing dimension (SCD) techniques.</description>
+      <guid isPermaLink="false">https://mavenanalytics.io/data-drills/the-price-is-right</guid>
+      <pubDate>Tue, 23 Jun 2026 17:48:48 +0300</pubDate>
+    </item>
+    <item>
+      <title>Making the Cut</title>
+      <link>https://mavenanalytics.io/data-drills/making-the-cut</link>
+      <description>Group marathon runners into bands based on their finish times to see how the field is distributed. Ideal for practicing data binning and time calculations.</description>
+      <guid isPermaLink="false">https://mavenanalytics.io/data-drills/making-the-cut</guid>
+      <pubDate>Tue, 23 Jun 2026 17:48:48 +0300</pubDate>
+    </item>
+    <item>
+      <title>Org Chart Overhaul</title>
+      <link>https://mavenanalytics.io/data-drills/org-chart-overhaul</link>
+      <description>Build reporting hierarchies, count direct and total reports, and map employee-manager relationships using organizational data. Ideal for practicing recursive logic and data modeling skills.</description>
+      <guid isPermaLink="false">https://mavenanalytics.io/data-drills/org-chart-overhaul</guid>
+      <pubDate>Tue, 23 Jun 2026 17:48:48 +0300</pubDate>
+    </item>
     <item>
       <title>Spot the Sale</title>
       <link>https://mavenanalytics.io/data-drills/spot-the-sale</link>
